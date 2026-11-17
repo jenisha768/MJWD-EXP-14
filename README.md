@@ -1,5 +1,8 @@
 # Experiment 14 – Fetch Student Details Using an API in React
 
+**Name:** JENISHA TEENA ROSE F  
+**Register Number:** 2305001010  
+
 ## Aim
 To develop a React application in which a user clicks **View Student Details**, the application sends a GET request to a public API, receives JSON data, and displays the student information.
 
